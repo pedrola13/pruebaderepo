@@ -1,1 +1,2 @@
-print("hola mundo")
+contraseña=123
+usuario=pedro
